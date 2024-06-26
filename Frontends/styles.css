@@ -1,0 +1,125 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+button[type="submit"] {
+  background-color: white; /* Color naranja */
+  color: black; /* Texto en color blanco */
+  padding: 10px 20px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 2px 2px 4px rgba(65, 105, 225, 0.8); /* Sombreado naranja */
+}
+
+#cancelBtn {
+  background-color: white; /* Color azul */
+  color: black; /* Texto en color blanco */
+  padding: 10px 20px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 2px 2px 4px rgba(255, 99, 71, 0.8); /* Sombreado azul */
+}
+
+.newTareaBtn {
+  background-color: rgb(55, 214, 121); /* Color azul para el botón Editar */
+  color: white; /* Texto en color blanco */
+  font-size: 16px; /* Tamaño de fuente 16px */
+  padding: 5px 10px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombreado */
+}
+
+.editBtn {
+  background-color: rgb(114, 114, 212); /* Color azul para el botón Editar */
+  color: white; /* Texto en color blanco */
+  font-size: 16px; /* Tamaño de fuente 16px */
+  padding: 5px 10px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombreado */
+  width: 90%;
+}
+
+.deleteBtn {
+  background-color: rgb(194, 89, 89); /* Color rojo para el botón Eliminar */
+  color: white; /* Texto en color blanco */
+  font-size: 16px; /* Tamaño de fuente 16px */
+  padding: 5px 10px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombreado */
+  width: 90%;
+}
+
+.dialog {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+  width: 60%;
+  max-width: 400px; /* Límite máximo del ancho del dialog */
+  height: auto;
+}
+
+textarea {
+  border-radius: 10px; /* Establecer el diámetro en 10px */
+  padding: 10px; /* Espaciado interno */
+  width: 95%; /* Ancho del textarea */
+  height: 90px; /* Alto del textarea */
+}
+
+.dialog form {
+  display: flex;
+  flex-direction: column;
+}
+
+.dialog label {
+  margin: 10px 0 5px;
+}
+
+.dialog input[type="text"],
+.dialog input[type="number"],
+.dialog input[type="date"] {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.dialog button {
+  margin-top: 20px;
+}

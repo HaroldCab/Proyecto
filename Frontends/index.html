@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Administracion de Tareas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Lista de Tareas</h1>
+      <button class="newTareaBtn" id="newTareaBtn">+ Nueva Tarea</button>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Titulo</th>
+            <th>Descripcion</th>
+            <th>Completada</th>
+            <th>Opciones</th>
+          </tr>
+        </thead>
+        <tbody id="tareaList">
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Nuevo/Editar tarea-->
+    <div id="tareaDialog" class="dialog">
+      <form id="tareaForm">
+        <h2 id="dialogTitle">Nueva Tarea</h2>
+        <label for="titulo">Titulo:</label>
+        <input type="text" id="titulo" name="titulo" required />
+        <label for="descripcion">Descripcion:</label>
+        <textarea id="descripcion" name="descripcion" required></textarea>
+        <label for="completada" id="completadaLabel">
+          <input type="checkbox" id="completada" name="completada" />
+          Completada
+        </label>
+        <button type="submit">Guardar</button>
+        <button type="button" id="cancelBtn">Cancelar</button>
+      </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

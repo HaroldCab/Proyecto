@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lion\\source\\repos\\Backends\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|c:\\users\\lion\\source\\repos\\backends\\backends\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|solutionrelative:backends\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|c:\\users\\lion\\source\\repos\\backends\\backends\\data\\tarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|solutionrelative:backends\\data\\tarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|c:\\users\\lion\\source\\repos\\backends\\backends\\data\\itarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|solutionrelative:backends\\data\\itarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|c:\\users\\lion\\source\\repos\\backends\\backends\\data\\mysqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|solutionrelative:backends\\data\\mysqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|c:\\users\\lion\\source\\repos\\backends\\backends\\model\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|solutionrelative:backends\\model\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|c:\\users\\lion\\source\\repos\\backends\\backends\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE911202-16ED-4FD0-8B6D-ACEADCB38027}|Backends\\Backends.csproj|solutionrelative:backends\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITareaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Data\\ITareaRepository.cs",
+              "RelativeDocumentMoniker": "Backends\\Data\\ITareaRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Data\\ITareaRepository.cs",
+              "RelativeToolTip": "Backends\\Data\\ITareaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:52:26.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MySQLConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Data\\MySQLConfiguration.cs",
+              "RelativeDocumentMoniker": "Backends\\Data\\MySQLConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Data\\MySQLConfiguration.cs",
+              "RelativeToolTip": "Backends\\Data\\MySQLConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:51:25.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Model\\Tarea.cs",
+              "RelativeDocumentMoniker": "Backends\\Model\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Model\\Tarea.cs",
+              "RelativeToolTip": "Backends\\Model\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T16:50:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Program.cs",
+              "RelativeDocumentMoniker": "Backends\\Program.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Program.cs",
+              "RelativeToolTip": "Backends\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:57:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "Backends\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "Backends\\Controllers\\TareaController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:25:09.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Data\\TareaRepository.cs",
+              "RelativeDocumentMoniker": "Backends\\Data\\TareaRepository.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\Backends\\Backends\\Data\\TareaRepository.cs",
+              "RelativeToolTip": "Backends\\Data\\TareaRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T02:18:27.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
